@@ -9,6 +9,7 @@
 
 # FoundryVTT Module
 
-Does something, probably
+Adds support for copying cards within a Deck using a simple button.
 
 ## Changelog
+v1.0.0 Initial release.
