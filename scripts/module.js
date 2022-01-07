@@ -1,6 +1,3 @@
-Hooks.once('init', async function() {
-});
-
 Hooks.once('ready', async function() {
 	Hooks.on('renderCardsConfig', (doc, html, obj) => {
 		if(obj.data.type === "deck") {
