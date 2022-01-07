@@ -9,7 +9,7 @@ Hooks.once('ready', async function() {
 	});
 	
 	function addDuplicateButton(doc, html, obj) {
-		let controls = html.find(".card-controls");
+		let controls = html.find(".card .card-controls");
 		const duplicateCard = $('<a class="card-control card-duplicate" title="Duplicate Card" data-action="duplicate"><i class="fas fa-copy"></i></a>');
 		controls.prepend(duplicateCard);
 		html.find(".card-duplicate").click(onDuplicate.bind(doc));
