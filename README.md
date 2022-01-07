@@ -9,7 +9,7 @@
 
 # FoundryVTT Module
 
-Adds support for copying cards within a Deck using a simple button.
+Adds support for copying cards within a Deck using a simple button. Also adds a pair of buttons for changing the face of an entire deck at once.
 
 ## Changelog
 v1.0.0 Initial release.
