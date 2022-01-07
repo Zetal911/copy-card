@@ -18,20 +18,9 @@
   "esmodules": [
     "/scripts/module.js"
   ],
-  "scripts": [
-    "/scripts/lib/lib.js",
-    "/scripts/lib/shim.js"
-  ],
-  "styles": [
-    "/styles/module.css"
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
+  "scripts": [],
+  "styles": [],
+  "languages": [],
   "packs": [],
   "system": [],
   "manifest": "https://github.com/Zetal911/copy-card/releases/latest/download/module.json",
